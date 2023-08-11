@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-Sudha Shukla Frontend Developer
-=======
+
+
 Amit jatt Frontend Developer
 Shivam Mishra Frontend Developer
 Ayush Singh Frontend Developer
->>>>>>> 59e00ea57cef9d64dee9efbe35dea6fc52e9f390
+khushi tiwari fronted developer
+Sudha Shukla Frintend Developer
